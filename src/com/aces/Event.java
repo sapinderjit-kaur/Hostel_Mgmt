@@ -14,7 +14,7 @@ import java.awt.Toolkit;
 import javax.swing.JPanel;
 /**
  *
- * @author $ehmi
+ * @author
  */
 public class Event extends javax.swing.JFrame {
 PreparedStatement pst = null;
