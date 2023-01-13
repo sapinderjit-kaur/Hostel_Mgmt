@@ -6,10 +6,7 @@
 
 package com.aces;
 
-/**
- *
- * @author Erica
- */
+
 public class NewJFrame1 extends javax.swing.JFrame {
 
     /**
