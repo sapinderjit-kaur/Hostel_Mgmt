@@ -3,9 +3,7 @@ package com.aces;
 
 public class NewJFrame2 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form NewJFrame2
-     */
+    
     public NewJFrame2() {
         initComponents();
     }
